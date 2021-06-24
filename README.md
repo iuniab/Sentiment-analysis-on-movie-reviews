@@ -1,1 +1,1 @@
-# Sentiment-analysis-on-movie-reviews
+This code is part of a broader project attempting to perform sentiment analysis on a movie reviews dataset generated from the Rotten Tomatoes website. There are 5 classes as labels ranging from 0 to 4 as follows: 0 – negative, 1 – somewhat negative, 2 – neutral, 3 – somewhat positive, 4 – positive. The methods compared in this project are bidirectional LSTMs with attention and BERT. Overall, the former seems to perform slightly better, however that might be due to the nature of the data and of the labels. 
